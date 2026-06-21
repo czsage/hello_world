@@ -1,0 +1,6 @@
+# Cookie files contain sensitive credentials — never commit
+*cookies*.txt
+bilibili_cookies.txt
+
+# Subtitle output directory
+bilibili_subtitles_output/
